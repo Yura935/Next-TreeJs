@@ -1,0 +1,12 @@
+.menu-button {
+  height: 30px;
+  cursor: pointer;
+  text-align: left;
+  padding-left: 4px;
+  background-color: transparent;
+  border: none;
+}
+
+.menu-button:hover {
+  background-color: rgb(40, 39, 39);
+}

@@ -1,0 +1,28 @@
+.menu {
+  width: 250px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: #000;
+  z-index: 100;
+  padding: 8px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+
+.icons {
+  cursor: pointer;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  height: 150px;
+  gap: 6px;
+}
